@@ -1,0 +1,280 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alan Nahuel",
+      "surnames": "López Ruiz",
+      "description": "Soy un desarrollador web al que le encanta el mundo de la tecnología, y no solo el software. Desde los 15 años he estado invirtiendo mis vacaciones en ayudar a mi padre en el trabajo aprendiendo todo lo que he podido y más de él.\n\nActualmente he terminado el grado superior en DAW y he comenzado el primer año en Ingeniería del Software en la U-Tad, en modalidad Online. Mientras tanto sigo trabajando en NTT Data como desarrollador en un entorno Natural, dando mantenimiento y soporte a los programas del INSS.\n\nMe encanta todo el sector relacionado con el Fontend pero estoy en proceso de aprendizaje de tecnologías Backend como Go. Tengo intención en especializarme en mi carrera en el área de la ciberseguridad, concretamente en el pentesting. Aunque el tiempo lo dirá, porque soy curioso por naturaleza y me encantar informarme al máximo sobre los temas de los que me siento atraído en el momento.\n\n",
+      "location": {
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Salamanca"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alannahuel"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Curso React desde 0",
+        "type": "other",
+        "URL": "https://youtu.be/6Jfk8ic3KVk",
+        "authors": [
+          {
+            "name": "FREECODECAMP",
+            "surnames": "FREECODECAMP",
+            "title": "Author"
+          }
+        ],
+        "summary": "Enseña todos los principios básicos de ReactJS a través de 3 sencillos proyecto."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ntt Data"
+        },
+        "roles": [
+          {
+            "name": "Center Junior",
+            "startDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "Soy programador en entornos Natural en el equipo del INSS en NTT Data, en el centro con sede de Salamanca. Me encargo de dar mantenimiento y soporte a los programas de la Seguridad Social."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adabas",
+                "type": "technology"
+              },
+              {
+                "name": "Natural",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería del Software",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "U-Tad",
+          "description": "Primer año de Ingeniería del Software"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Arduino",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2020-09-01",
+        "finishDate": "2022-09-01",
+        "institution": {
+          "name": "IFP"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AngularJS",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alannahuel"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Adabas",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Cobol",
+          "type": "technology"
+        },
+        {
+          "name": "Natural",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    }
+  }
+}
